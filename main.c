@@ -6,7 +6,7 @@
  * ***********************************/
 
 #include <stdio.h>
-#include </data/data/com.termux/files/home/projects/c/projects/game/engine.c>
+#include <engine.c>
 int main(void) {
 engine_init();
 }
