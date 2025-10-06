@@ -1,7 +1,7 @@
 
 /*************************************
  * textgame - text based game engine 
- * by Dontesk Peoples Republic 
+ * by umogal 
  * © All Rights Reserved
  * ***********************************/
 
